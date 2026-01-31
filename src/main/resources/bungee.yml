@@ -1,0 +1,4 @@
+name: ClassicBungeeWhitelist
+version: '1.0'
+main: net.classicplay.bungee.whitelist.ClassicBungeeWhitelist
+author: DamianFarias
